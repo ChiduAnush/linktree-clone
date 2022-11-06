@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
+.name{
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+}
+.description{
+    font-family: 'Comfortaa', cursive;
+}
+
+
+
+.links a{
+    width: 100%;
+    font-family: 'Baloo 2', cursive;
+    padding: 20px;
+    color: white;
+    background-color: #3d3b3c;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px;
+    transition: 0.5s;
+}
+
+.links a:hover{
+    border: 2.6px solid #3d3b3c;
+    background-color: white;
+    color: #3d3b3c;
+}
+
+p{
+    margin: 3px;
+}
+
